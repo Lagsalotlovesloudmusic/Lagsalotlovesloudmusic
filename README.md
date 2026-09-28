@@ -1,6 +1,4 @@
-<div align="center">
-  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=28&letterSpacing=-1px&pause=2000&color=000000&center=true&vCenter=true&width=435&lines=I+don't+listen+when+they+talk%2C+'cause+I+heard+enough" alt="Typing SVG" /></a>
+
 
 </div>
 
